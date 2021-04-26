@@ -9,7 +9,7 @@
 [![Email badge](https://img.shields.io/badge/email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:br.moises@hotmail.com?subject=Hello)
 
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=br.moises@hotmail.com)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoisesMed)]
 
 
 ### Favorite technologies:
