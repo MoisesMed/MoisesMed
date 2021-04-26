@@ -11,7 +11,8 @@
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoisesMed)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrMoises&langs_count=8)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesMed&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Favorite technologies:
 <p align="left">
