@@ -2,7 +2,7 @@
 
 **Software Developer**
 
-- 📚 Main technologies: **_JavaScript, React, Node.js, HTML, CSS, SQL_**
+- 📚 Main technologies: **JavaScript, React, Node.js, HTML, CSS, SQL (SQL Server, PostgreSQL)**
 
 ### How to find me:
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-blue?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/mois%C3%A9s-medeiros/)
