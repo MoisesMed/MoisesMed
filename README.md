@@ -24,3 +24,11 @@
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoisesMed)]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesMed&layout=compact)
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=MoisesMed&show_icons=tru&theme=dracula" alt="Status" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesMe&layout=compact&show_icons=true&theme=dracula" alt="Langs" />
