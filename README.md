@@ -31,4 +31,4 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesMe&layout=compact&show_icons=true&theme=dracula" alt="Langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesMed&layout=compact&show_icons=true&theme=Merko" alt="Langs" />
