@@ -23,8 +23,8 @@
 <br>
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesMed&layout=compact&show_icons=true" alt="Langs" />
-<br>
 
+<br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=MoisesMed&show_icons=tru" alt="Status" />
 
