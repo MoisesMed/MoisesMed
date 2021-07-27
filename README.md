@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Moisés Medeiros</h1>
 <h3 align="center">Software Developer</h3>
 
-<h3 align="left">Connect with me: <img align="right" src="https://user-images.githubusercontent.com/43209743/127231797-ef1eb850-e737-4b45-9030-1559aacf4d3f.png" width="420" height="420" alt="moisesmed" /></h3>
+<h3 align="left">Connect with me: <img align="right" src="https://user-images.githubusercontent.com/43209743/127231797-ef1eb850-e737-4b45-9030-1559aacf4d3f.png" width="350" height="350" alt="moisesmed" /></h3>
 - 🌱 I’m currently learning **Redux, NextJs, Context API and React Native** 
 
 - 📫 How to reach me **br.moises@hotmail.com**
