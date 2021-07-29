@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm Moisés Medeiros</h1>
 <h3 align="center">Software Developer</h3>
 
-<h3 align="left">Connect with me: <img align="right" src="https://user-images.githubusercontent.com/43209743/127231797-ef1eb850-e737-4b45-9030-1559aacf4d3f.png" width="350" height="350" alt="moisesmed" /></h3>
-- 🌱 I’m currently learning **Redux, NextJs, Context API and React Native** 
+<h3 align="left">Connect with me: <img align="right" src="https://user-images.githubusercontent.com/43209743/127231797-ef1eb850-e737-4b45-9030-1559aacf4d3f.png" width="350" height="320" alt="moisesmed" /></h3>
+<p>-🌱 I’m currently learning **Redux, NextJs, Context API and React Native** </p>
+<p> </p>
 
-- 📫 How to reach me **br.moises@hotmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">-📫 How to reach me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/moisés-medeiros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moisés-medeiros" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/moisés-medeiros" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="moisés-medeiros" height="30" width="120" /></a>
+<a href="mailto:br.moises2605@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" width="120" /></a>  
+  
   
 </p>
 <h3 align="left">Languages and Tools:</h3>
@@ -33,7 +34,10 @@
   <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=moisesmed&show_icons=true&locale=en&layout=compact" alt="moisesmed" />
- ![Snake animation](https://github.com/MoisesMed/MoisesMed/blob/output/github-contribution-grid-snake.svg)
+  <img height="180" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moisesmed&show_icons=true&locale=en&layout=compact" alt="moisesmed" />
+  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=moisesmed&show_icons=true&include_all_commits=true&count_private=true"/>
 </p>
-
+  
+ ![Snake animation](https://github.com/MoisesMed/MoisesMed/blob/output/github-contribution-grid-snake.svg)
+  
+  
