@@ -7,7 +7,7 @@
 
 <h3 align="left">-📫 How to reach me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/moisés-medeiros" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="moisés-medeiros" height="30" width="120" /></a>
+<a href="https://linkedin.com/in/moisés-medeiros" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="moisés-medeiros" height="30" width="120" /></a>
 <a href="mailto:br.moises2605@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" width="120" /></a>  
   
   
