@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Moisés Medeiros</h1>
 <h3 align="center">Software Developer</h3>
 
-<h3 align="left">:bust_in_silhouette: About me: <a  href="https://moises-portfolio.vercel.app/"><img align="right" src="https://user-images.githubusercontent.com/43209743/127231797-ef1eb850-e737-4b45-9030-1559aacf4d3f.png" width="350" height="320" alt="moisesmed" /> </a></h3>
+<h3 align="left">:bust_in_silhouette: About me: <a target="_blank" href="https://moises-portfolio.vercel.app/"><img align="right" src="https://user-images.githubusercontent.com/43209743/127231797-ef1eb850-e737-4b45-9030-1559aacf4d3f.png" width="350" height="320" alt="moisesmed" /> </a></h3>
 <p>-  My name is Moisés Medeiros Matos, I'm 22 years old and I'm studying Information Systems. I'm a Web and Mobile developer, computer technician and technology lover. </p>
 <p>- :books: I’m currently learning: Redux, NextJs, Context API and React Native </p>
-<p>- :heartbeat: my favorite technologies:  </p>
+<p>- :heartbeat: my favorite technologies: React, Javascript e CSS  </p>
 
 
 <h3 align="left">📫 How to reach me:</h3>
