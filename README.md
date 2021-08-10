@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Moisés Medeiros</h1>
+<h1 align="center">Hi 👋, I'm Moisés Medeiros.</h1>
 <h3 align="center">Software Developer</h3>
 
 <h3 align="left">:bust_in_silhouette: About me: <a target="_blank" href="https://moises-portfolio.vercel.app/"><img align="right" src="https://user-images.githubusercontent.com/43209743/127231797-ef1eb850-e737-4b45-9030-1559aacf4d3f.png" width="350" height="320" alt="moisesmed" /> </a></h3>
