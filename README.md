@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/moisés-medeiros" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="moisés-medeiros" height="30" width="110" /></a>
 <a href="mailto:br.moises2605@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" width="110" /></a> 
-  <a href="https://github.com/MoisesMed/MoisesMed" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="32" width="110" /></a>
+  <a href="https://github.com/MoisesMed/MoisesMed" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30" width="110" /></a>
     <a href="https://moises-portfolio.vercel.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/WEBSITE-blue" height="30" width="110" /></a>
 
 </p>
