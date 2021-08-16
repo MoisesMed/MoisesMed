@@ -36,7 +36,8 @@
   <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>   <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
 <!--   <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>  -->
 <!--   <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> </p> -->
-<br> </br>
+<br/>
+
 <p>
   <img height="150" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moisesmed&show_icons=true&locale=en&layout=compact" alt="moisesmed" />
   <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=moisesmed&show_icons=true&include_all_commits=true&count_private=true"/>
