@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer</h3>
 
 <h3 align="left">:bust_in_silhouette: About me: <a target="_blank" href="https://moises-portfolio.vercel.app/"><img align="right" src="https://user-images.githubusercontent.com/43209743/127231797-ef1eb850-e737-4b45-9030-1559aacf4d3f.png" width="340" height="310" alt="moisesmed" /> </a></h3>
-<p>-  My name is Moisés Medeiros Matos, I'm 24 years old and I'm studying Information Systems. I'm a Web and Mobile developer, computer technician and technology lover. </p>
+<p>- My name is Moisés Medeiros Matos. I'm 24 years old, and I graduated in Information Systems. I work as a Web and Mobile developer, and I am a computer technician with a passion for technology. </p>
 <p>- :heartbeat: My favorite technologies: React, Javascript e CSS  </p>
 
 
